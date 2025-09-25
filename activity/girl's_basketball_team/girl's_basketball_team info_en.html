@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Girl's Basketball Team</title>
+    <link rel="stylesheet" href="../../other/all style.css" />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-decoration: none;
+      }
+      .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: white;
+        margin: 0;
+        padding: 10px 30px;
+        height: 100px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        position: sticky;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+      }
+      .navbar-top {
+        display: flex;
+        align-items: center;
+        width: 100%;
+      }
+      .navbar-left {
+        display: flex;
+        align-items: center;
+      }
+      .navbar-logo {
+        height: 100px;
+        margin-right: 16px;
+      }
+      .school-name-block {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.2;
+      }
+      .school-cn {
+        font-size: 18px;
+        font-weight: bold;
+        color: #444;
+      }
+      .school-en {
+        font-size: 12px;
+        color: #777;
+        text-transform: uppercase;
+      }
+      .navbar-links {
+        display: flex;
+        margin-left: auto;
+      }
+      .navbar-links a {
+        margin-left: 20px;
+        text-decoration: none;
+        color: #242525;
+        font-weight: 500;
+        transition: color 0.3s;
+      }
+      .navbar-links a:hover {
+        color: #0056b3;
+      }
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+      .dropbtn {
+        padding: 10px;
+        color: #242525;
+        font-weight: 500;
+        text-decoration: none;
+        cursor: pointer;
+        transition: color 0.3s;
+      }
+      .dropbtn:hover {
+        color: #0056b3;
+      }
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: white;
+        min-width: 180px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        z-index: 1001;
+        border-radius: 8px;
+        overflow: hidden;
+        top: 100%;
+        left: 0;
+      }
+      .dropdown-content a {
+        color: #242525;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        font-size: 14px;
+        transition: background-color 0.2s, color 0.2s;
+      }
+      .dropdown-content a:hover {
+        background-color: #f0f0f0;
+        color: #007bff;
+      }
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+      .top-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 20px 0;
+      }
+      .leaders {
+        flex: 1;
+      }
+      .club-logo {
+        width: 120px;
+        height: auto;
+        margin-left: 20px;
+        border-radius: 8px;
+      }
+      .photo-horizon {
+        width: 99%;
+      }
+      .photo-verticle {
+        width: 49%;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="navbar-top">
+        <div class="navbar-left">
+          <img
+            src="../../other photo/WFL-logo.png"
+            alt="WFL Logo"
+            class="navbar-logo"
+          />
+          <div class="school-name-block">
+            <div class="school-cn">上 海 青 浦 区 世 外 高 级 中 学</div>
+            <div class="school-en">
+              SHANGHAI QINGPU WORLD FOREIGN LANGUAGE HIGH SCHOOL
+            </div>
+          </div>
+        </div>
+        <nav class="navbar-links">
+          <a href="../../index.html">Main Page</a>
+          <div class="dropdown">
+            <a class="dropbtn">All clubs</a>
+            <div class="dropdown-content">
+              <a href="../../creativity/creativity-type_en.html">Creativity</a>
+              <a href="../../activity/activity-type_en.html">Activity</a>
+              <a href="../../service/service-type_en.html">Service</a>
+              <a href="../../study/study-type_en.html">Study</a>
+            </div>
+          </div>
+          <a href="../../suggestion/suggestion_en.html">Suggestion box</a>
+          <a onclick="window.location.href='QPWFL_BC info.html'">EN/中文</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="container">
+      <h1>Girl's Basketball Team Description</h1>
+      <div class="top-info">
+        <div class="leaders">
+          <p><strong>proprieter：</strong>Molly</p>
+          <p><strong>deputy director：</strong>Yoyo</p>
+        </div>
+        <img src="girl's basketball team logo.jpg" class="club-logo" />
+      </div>
+
+      <p><strong>description：</strong></p>
+      <ul>
+        <li>
+          The QPWFL Girl's Basketball Club is a passionate gathering place for
+          basketball-loving girls. We conduct systematic daily basketball
+          training, from basic dribbling and shooting to tactical coordination,
+          to gradually improve our skills. We also actively participate in club
+          activities, striving hard and challenging ourselves on the court. This
+          is not only a platform for improving our basketball skills, but also a
+          warm and welcoming community where we can make close friends and
+          spread the spirit of basketball. The women's basketball team is a warm
+          and welcoming community. Whether you're a beginner or a seasoned
+          basketball enthusiast, as long as you share your passion, we can all
+          work together on the court and let our youth shine.
+        </li>
+      </ul>
+      <p><strong>splendid moment：</strong></p>
+      <img src="moment1.png" class="photo-horizon" />
+    </div>
+    <a
+      href="https://beian.miit.gov.cn"
+      style="position: absolute; width: 100%; text-align: center; color: #888"
+      >沪ICP备2025137067号</a
+    >
+  </body>
+</html>
