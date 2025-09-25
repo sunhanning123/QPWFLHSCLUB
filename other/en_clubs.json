@@ -10,7 +10,7 @@
       "name": "Chemistry Club",
       "description": "description",
       "image": "../study/ChemXplore/ChemXplore logo.jpg",
-      "text_address":"../study/ChemXplore/ChemXplore info_en.html"
+      "text_address": "../study/ChemXplore/ChemXplore info_en.html"
     },
     {
       "name": "BIO",
@@ -86,7 +86,7 @@
       "name": "QPWFLFC",
       "description": "Pursuing dreams on the green pitch, vibrant youth",
       "image": "../activity/QPWFL_FC/QPWFL_FC logo.jpg",
-      "text_address":"../activity/QPWFL_FC/QPWFL_FC info_en.html"
+      "text_address": "../activity/QPWFL_FC/QPWFL_FC info_en.html"
     },
     {
       "name": "Volleyball Club",
@@ -117,10 +117,15 @@
       "description": "With sweat doth we water passion’s root; by toil and temper is young growth made stout.",
       "image": "../activity/table_tennis_club/table_tennis_club logo.jpg",
       "text_address": "../activity/table_tennis_club/table_tennis_club info_en.html"
+    },
+    {
+      "name": "Girls' Basketball Team",
+      "description": "Unity and hard work, never give up",
+      "image": "../activity/girls_basketball_team/girls_basketball_team logo.jpg",
+      "text_address": "../activity/girls_basketball_team/girls_basketball_team info_en.html"
     }
   ],
   "S": [
-  
     {
       "name": "ORCAFE",
       "description": "no description",
@@ -151,7 +156,7 @@
       "name": "Chemistry Club",
       "description": "description",
       "image": "../study/ChemXplore/ChemXplore logo.jpg",
-      "text_address":"../study/ChemXplore/ChemXplore info_en.html"
+      "text_address": "../study/ChemXplore/ChemXplore info_en.html"
     },
     {
       "name": "WFL Econ. club",
