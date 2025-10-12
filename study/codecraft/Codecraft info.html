@@ -132,6 +132,44 @@
     .photo-verticle {
         width: 49%;
     }
+
+    .video-section {
+      margin-top: 40px;
+      text-align: center;
+    }
+    .video-container {
+      position: relative;
+      display: inline-block;
+      width: 100%;
+      max-width: 720px;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .like-overlay {
+      position: absolute;
+      bottom: 10px;
+      right: 20px;
+      background: rgba(255, 255, 255, 0.85);
+      border-radius: 50px;
+      padding: 6px 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 18px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+    #likeBtn {
+      background: none;
+      border: none;
+      color: #ff5252;
+      font-size: 22px;
+      cursor: pointer;
+      transition: transform 0.15s;
+    }
+    #likeBtn:hover {
+      transform: scale(1.2);
+    }
   </style>
 </head>
 <body>
@@ -193,6 +231,50 @@
       <li>培养自驱式学习习惯与严谨的工程思维</li>
       <li>在代码冲突与协作中不断成长为真正的开发者</li>
     </ul>
+    
+      <div class="video-section">
+    <h1>社团视频展示</h1>
+  
+  <!-- 视频容器 -->
+    <div class="video-container">
+      <video id="clubVideo" width="100%" controls>
+        <source src="Codecraft-video.mp4" type="video/mp4">
+        您的浏览器不支持 video 标签。
+      </video>
+
+    <!-- 点赞叠加层 -->
+      <div class="like-overlay">
+        <button id="likeBtn">👍 点赞</button>
+        <span id="likeCount">0</span> 次
+      </div>
+    </div>
+  </div>
+
+  <script>
+  // 改成你的 FastAPI 服务器地址（部署后记得修改）
+  const API_BASE = "http://127.0.0.1:8000";
+
+    async function updateLikes() {
+      try {
+        const res = await fetch(`${API_BASE}/likes`);
+        const data = await res.json();
+        document.getElementById('likeCount').textContent = data.likes;
+      } catch (err) {
+        console.error("获取点赞数失败:", err);
+      }
+    }
+    document.getElementById('likeBtn').addEventListener('click', async () => {
+      try {
+        const res = await fetch(`${API_BASE}/like`, { method: "POST" });
+        const data = await res.json();
+        document.getElementById('likeCount').textContent = data.likes;
+      } catch (err) {
+        console.error("点赞失败:", err);
+      }
+    });
+    updateLikes();
+  </script>
+
     <p><strong>精彩瞬间：</strong></p>
     <img src="2141749227931_.pic.jpg" class="photo-horizon">
     <img src="2151749228005_.pic.jpg" class="photo-horizon">
