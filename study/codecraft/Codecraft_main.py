@@ -7,7 +7,7 @@ app = FastAPI()
 # 允许跨域访问（方便前端从不同域访问）
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://www.qpwflhsclub.com/"], 
+    allow_origins=["http://www.qpwflhsclub.com","https://www.qpwflhsclub.com"], 
     allow_methods=["*"],
     allow_headers=["*"],
 )
