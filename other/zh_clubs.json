@@ -141,10 +141,10 @@
       "text_address": "../study/codecraft/Codecraft info.html"
     },
     {
-      "name": "天文社",
-      "description": "借天文之手，展物理之妙",
-      "image": "../study/Astronomy_Club/Astronomy_Club logo.jpg",
-      "text_address": "../study/Astronomy_Club/Astronomy_Club info.html"
+      "name": "物理社",
+      "description": "于方寸之间，洞万物之理",
+      "image": "../study/Physics_Club/Physics_Club logo.jpg",
+      "text_address": "../study/Physics_Club/Physics_Club info.html"
     },
     {
       "name": "化学社",
