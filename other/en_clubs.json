@@ -131,6 +131,12 @@
       "description": "with love, for every elder's tomorrow",
       "image": "../service/Wishers/Wishers logo.jpg",
       "text_address": "../service/Wishers/Wishers info_en.html"
+    },
+    {
+      "name": "American Sign Language Club",
+      "description": "Silent Hands, United Hearts",
+      "image": "../service/American Sign Language Club/ASL logo.jpg",
+      "text_address": "../service/American Sign Language Club/American Sign Language Club en.html"
     }
   ],
   "St": [
