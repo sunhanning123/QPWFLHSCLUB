@@ -18,7 +18,6 @@
       "image": "../study/BIO/BIO logo.jpg",
       "text_address": "../study/BIO/BIO info_en.html"
     },
-    
     {
       "name": "Codecraft",
       "description": "Connect the world with code, grow through real projects",
@@ -72,7 +71,7 @@
     {
       "name": "The Orcas",
       "description": "Styles have no boundaries, music thrives together.",
-      "image": "../other photo/什么也没留下.jpg",
+      "image": "../creativity/The_Orcas/Orcas logo.png",
       "text_address": "../creativity/The_Orcas/The_Orcas info_en.html"
     },
     {
@@ -114,12 +113,6 @@
       "text_address": "../activity/QPWFL_BC/QPWFL_BC info_en.html"
     },
     {
-      "name": "Table Tennis Club",
-      "description": "With sweat doth we water passion’s root; by toil and temper is young growth made stout.",
-      "image": "../activity/table_tennis_club/table_tennis_club logo.jpg",
-      "text_address": "../activity/table_tennis_club/table_tennis_club info_en.html"
-    },
-    {
       "name": "Girls' Basketball Team",
       "description": "Unity and hard work, never give up",
       "image": "../activity/girls_basketball_team/girls basketball team logo.jpg",
@@ -138,6 +131,12 @@
       "description": "with love, for every elder's tomorrow",
       "image": "../service/Wishers/Wishers logo.jpg",
       "text_address": "../service/Wishers/Wishers info_en.html"
+    },
+    {
+      "name": "American Sign Language Club",
+      "description": "Silent Hands, United Hearts",
+      "image": "../service/American Sign Language Club/ASL logo.jpg",
+      "text_address": "../service/American Sign Language Club/American Sign Language Club en.html"
     }
   ],
   "St": [
@@ -150,8 +149,8 @@
     {
       "name": "Physics Club",
       "description": "Unveil the wonders of physics",
-      "image": "../study/Physics_Club/Physics_Club logo.jpg",
-      "text_address": "../study/Physics_Club/Physics_Club info_en.html"
+      "image": "../study/Physics Club/Physics_Club logo.jpg",
+      "text_address": "../study/Physics Club/Physics_Club info_en.html"
     },
     {
       "name": "Chemistry Club",
@@ -193,11 +192,6 @@
       "name": "BPC",
       "description": "Dream. Build. Achieve. ——Business Starts Here",
       "image": "../study/BPC/BPC logo.png",
-      "text_address": "../study/BPC/BPC info_en.html"},
-     { "name": "Lingual Fusion",
-      "description": "Blend into the Realm of Languages, Connect with the Voices of the World.",
-      "image": "../study/Lingual Fusion/Lingual Fusion logo.jpg",
-      "text_address": "../study/Lingual Fusion/Lingual Fusion info_en.html"
-    }
+      "text_address": "../study/BPC/BPC info_en.html"}
   ]
 }
