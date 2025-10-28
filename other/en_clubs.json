@@ -147,10 +147,10 @@
       "text_address": "../study/codecraft/Codecraft info_en.html"
     },
     {
-      "name": "Astronomy Club",
+      "name": "Physics Club",
       "description": "Unveil the wonders of physics",
-      "image": "../study/Astronomy_Club/Astronomy_Club logo.jpg",
-      "text_address": "../study/Astronomy_Club/Astronomy_Club info_en.html"
+      "image": "../study/Physics Club/Physics_Club logo.jpg",
+      "text_address": "../study/Physics Club/Physics_Club info_en.html"
     },
     {
       "name": "Chemistry Club",
@@ -184,6 +184,16 @@
     },
     {
       "name": "Lingual Fusion",
+      "description": "Blend into the Realm of Languages, Connect with the Voices of the World.",
+      "image": "../study/Lingual Fusion/Lingual Fusion logo.jpg",
+      "text_address": "../study/Lingual Fusion/Lingual Fusion info_en.html"
+    },
+    {
+      "name": "BPC",
+      "description": "Dream. Build. Achieve. ——Business Starts Here",
+      "image": "../study/BPC/BPC logo.png",
+      "text_address": "../study/BPC/BPC info_en.html"},
+     { "name": "Lingual Fusion",
       "description": "Blend into the Realm of Languages, Connect with the Voices of the World.",
       "image": "../study/Lingual Fusion/Lingual Fusion logo.jpg",
       "text_address": "../study/Lingual Fusion/Lingual Fusion info_en.html"
