@@ -118,6 +118,12 @@
         "description": "以汗水浇灌热爱，以磨砺助力成长",
         "image": "../activity/table_tennis_club/table_tennis_club logo.jpg",
         "text_address":"../activity/table_tennis_club/table_tennis_club info.html"
+      },
+      {
+        "name": "高尔夫球社",
+        "image": "",
+        "description": "挥杆之间，尽显风度",
+        "text_address":"../activity/golf_club/golf_club info.html"
       }
     ],
     "S": [
@@ -132,6 +138,12 @@
         "description": "爱在夕望",
         "image": "../service/Wishers/Wishers logo.jpg",
         "text_address":"../service/Wishers/Wishers info.html"
+      },
+      {
+        "name": "揉面不emo烘焙社",
+        "description": "揉面团，让“低落”消散",
+        "image": "",
+        "text_address":"../service/bakery_club/bakery_club.html"
       }
     ],
     "St": [
