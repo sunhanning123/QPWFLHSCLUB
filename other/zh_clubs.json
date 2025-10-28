@@ -82,38 +82,6 @@
         "text_address": "../creativity/Shutter story/Shutter story info.html"
       }
     ],
-    "A": [
-      {
-        "name": "足球社",
-        "image": "../activity/QPWFL_FC/QPWFL_FC logo.jpg",
-        "description": "逐梦绿茵，活力青春",
-        "text_address":"../activity/QPWFL_FC/QPWFL_FC info.html"
-      },
-      {
-        "name": "排球社",
-        "description": " 每一次跃起都算数。",
-        "image": "../activity/Volleyball_club/Volleyball_club logo.jpg",
-        "text_address": "../activity/Volleyball_club/Volleyball_club info.html"
-      },
-      {
-        "name": "篮球社",
-        "description": "无兄弟，不篮球！一起上场，全力以赴！",
-        "image": "../activity/QPWFLBC/QPWFLBC logo.jpg",
-        "text_address": "../activity/QPWFLBC/QPWFLBC info.html"
-      },
-      {
-        "name": "击剑社",
-        "description": "信我所行",
-        "image": "../activity/fencing_club/fencing_club logo.jpg",
-        "text_address": "../activity/fencing_club/fencing_club info.html"
-      },
-      {
-        "name": "羽毛球社",
-        "description": "在一次次挥拍中锤炼意志，在一场场对决中沉淀成长",
-        "image": "../activity/QPWFL_BC/QPWFL_BC logo.jpg",
-        "text_address":"../activity/QPWFL_BC/QPWFL_BC info.html"
-      }
-    ],
     "S": [
       {
         "name": "咖啡社",
@@ -158,12 +126,6 @@
       "description": "在一次次挥拍中锤炼意志，在一场场对决中沉淀成长",
       "image": "../activity/QPWFL_BC/QPWFL_BC logo.jpg",
       "text_address": "../activity/QPWFL_BC/QPWFL_BC info.html"
-    },
-    {
-      "name": "乒乓球社",
-      "description": "以汗水浇灌热爱，以磨砺助力成长",
-      "image": "../activity/table_tennis_club/table_tennis_club logo.jpg",
-      "text_address": "../activity/table_tennis_club/table_tennis_club info.html"
     },
     {
       "name": "女子篮球队",
