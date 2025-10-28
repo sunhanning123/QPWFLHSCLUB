@@ -18,7 +18,6 @@
       "image": "../study/BIO/BIO logo.jpg",
       "text_address": "../study/BIO/BIO info_en.html"
     },
-    
     {
       "name": "Codecraft",
       "description": "Connect the world with code, grow through real projects",
@@ -112,12 +111,6 @@
       "description": "Through each swing of the racket, we temper our will; through every match, we accumulate growth.",
       "image": "../activity/QPWFL_BC/QPWFL_BC logo.jpg",
       "text_address": "../activity/QPWFL_BC/QPWFL_BC info_en.html"
-    },
-    {
-      "name": "Table Tennis Club",
-      "description": "With sweat doth we water passion’s root; by toil and temper is young growth made stout.",
-      "image": "../activity/table_tennis_club/table_tennis_club logo.jpg",
-      "text_address": "../activity/table_tennis_club/table_tennis_club info_en.html"
     },
     {
       "name": "Girls' Basketball Team",
