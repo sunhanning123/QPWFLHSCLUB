@@ -18,6 +18,7 @@
       "image": "../study/BIO/BIO logo.jpg",
       "text_address":"../study/BIO/BIO info.html"
     },
+    
     {
       "name": "编程社",
         "description": "用代码连接世界，用项目打磨成长",
@@ -175,6 +176,12 @@
         "description": "青云直上，辩场悟道",
         "image": "../study/QPWFLHS Chinese&English Debate Team/QPWFLHS Chinese&English Debate Team logo.jpg",
         "text_address":"../study/QPWFLHS Chinese&English Debate Team/QPWFLHS Chinese&English Debate Team info.html"
-      }
+      },
+      {
+      "name": "商科 BPC",
+      "description": "敢想・敢创・敢成",
+      "image": "../study/BPC/BPC logo.png",
+      "text_address":"../study/BPC/BPC info.html"
+    }
     ]
   }
