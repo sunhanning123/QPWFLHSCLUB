@@ -112,12 +112,6 @@
         "description": "在一次次挥拍中锤炼意志，在一场场对决中沉淀成长",
         "image": "../activity/QPWFL_BC/QPWFL_BC logo.jpg",
         "text_address":"../activity/QPWFL_BC/QPWFL_BC info.html"
-      },
-      {
-        "name": "乒乓球社",
-        "description": "以汗水浇灌热爱，以磨砺助力成长",
-        "image": "../activity/table_tennis_club/table_tennis_club logo.jpg",
-        "text_address":"../activity/table_tennis_club/table_tennis_club info.html"
       }
     ],
     "S": [
@@ -134,62 +128,6 @@
         "text_address":"../service/Wishers/Wishers info.html"
       }
     ],
-    "St": [
-      {
-        "name": "编程社",
-        "description": "用代码连接世界，用项目打磨成长",
-        "image": "../study/codecraft/Codecraft logo.jpg",
-        "text_address":"../study/codecraft/Codecraft info.html"
-      },
-      {
-        "name": "天文社",
-        "description": "借天文之手，展物理之妙",
-        "image": "../study/Astronomy_Club/Astronomy_Club logo.jpg",
-        "text_address": "../study/Astronomy_Club/Astronomy_Club info.html"
-      },
-      {
-        "name": "化学社",
-        "description": "「世间最大的快乐，莫过于发现世人从未见过的新物质。 」",
-        "image": "../study/ChemXplore/ChemXplore logo.jpg",
-        "text_address":"../study/ChemXplore/ChemXplore info.html"
-      },
-      {
-        "name": "经济社",
-        "description": "'经'彩人生，'济'不可失！",
-        "image": "../study/WFL_Econ._club/WFL_Econ_club logo.jpg",
-        "text_address": "../study/WFL_Econ._club/WFL_Econ._club info.html"
-      },
-      {
-        "name": "生物社",
-        "description": "走进生物学，走进自然，走进社会",
-        "image": "../study/BIO/BIO logo.jpg",
-        "text_address":"../study/BIO/BIO info.html"
-      },
-      {
-        "name": "心理社",
-        "description": "潜入于心灵，航行于灵魂",
-        "image": "../study/QPWFLPSY/QPWFLPSY logo.png",
-        "text_address": "../study/QPWFLPSY/QPWFLPSY info.html"
-      },
-      {
-        "name": "辩论社",
-        "description": "青云直上，辩场悟道",
-        "image": "../study/QPWFLHS Chinese&English Debate Team/QPWFLHS Chinese&English Debate Team logo.jpg",
-        "text_address":"../study/QPWFLHS Chinese&English Debate Team/QPWFLHS Chinese&English Debate Team info.html"
-      },
-      {
-        "name": "语言学社",
-        "description": "融语言之境，通世界之音",
-        "image": "../study/Lingual Fusion/Lingual Fusion logo.jpg",
-        "text_address": "../study/Lingual Fusion/Lingual Fusion info.html"
-      },
-      {
-      "name": "商科 BPC",
-      "description": "敢想・敢创・敢成",
-      "image": "../study/BPC/BPC logo.png",
-      "text_address":"../study/BPC/BPC info.html"
-    }
-  ],
   "A": [
     {
       "name": "足球社",
@@ -296,6 +234,12 @@
       "description": "融语言之境，通世界之音",
       "image": "../study/Lingual Fusion/Lingual Fusion logo.jpg",
       "text_address": "../study/Lingual Fusion/Lingual Fusion info.html"
+    },
+      {
+      "name": "商科 BPC",
+      "description": "敢想・敢创・敢成",
+      "image": "../study/BPC/BPC logo.png",
+      "text_address":"../study/BPC/BPC info.html"
     }
   ]
 }
