@@ -18,6 +18,7 @@
       "image": "../study/BIO/BIO logo.jpg",
       "text_address": "../study/BIO/BIO info_en.html"
     },
+    
     {
       "name": "Codecraft",
       "description": "Connect the world with code, grow through real projects",
@@ -183,7 +184,11 @@
       "text_address": "../study/QPWFLHS Chinese&English Debate Team/QPWFLHS Chinese&English Debate Team info_en.html"
     },
     {
-      "name": "Lingual Fusion",
+      "name": "BPC",
+      "description": "Dream. Build. Achieve. ——Business Starts Here",
+      "image": "../study/BPC/BPC logo.png",
+      "text_address": "../study/BPC/BPC info_en.html"},
+     { "name": "Lingual Fusion",
       "description": "Blend into the Realm of Languages, Connect with the Voices of the World.",
       "image": "../study/Lingual Fusion/Lingual Fusion logo.jpg",
       "text_address": "../study/Lingual Fusion/Lingual Fusion info_en.html"
