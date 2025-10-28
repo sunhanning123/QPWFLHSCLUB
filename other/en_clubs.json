@@ -10,7 +10,7 @@
       "name": "Chemistry Club",
       "description": "description",
       "image": "../study/ChemXplore/ChemXplore logo.jpg",
-      "text_address":"../study/ChemXplore/ChemXplore info_en.html"
+      "text_address": "../study/ChemXplore/ChemXplore info_en.html"
     },
     {
       "name": "BIO",
@@ -87,7 +87,7 @@
       "name": "QPWFLFC",
       "description": "Pursuing dreams on the green pitch, vibrant youth",
       "image": "../activity/QPWFL_FC/QPWFL_FC logo.jpg",
-      "text_address":"../activity/QPWFL_FC/QPWFL_FC info_en.html"
+      "text_address": "../activity/QPWFL_FC/QPWFL_FC info_en.html"
     },
     {
       "name": "Volleyball Club",
@@ -114,14 +114,13 @@
       "text_address": "../activity/QPWFL_BC/QPWFL_BC info_en.html"
     },
     {
-      "name": "Table Tennis Club",
-      "description": "With sweat doth we water passion’s root; by toil and temper is young growth made stout.",
-      "image": "../activity/table_tennis_club/table_tennis_club logo.jpg",
-      "text_address": "../activity/table_tennis_club/table_tennis_club info_en.html"
+      "name": "Girls' Basketball Team",
+      "description": "Unity and hard work, never give up",
+      "image": "../activity/girls_basketball_team/girls basketball team logo.jpg",
+      "text_address": "../activity/girls_basketball_team/girls_basketball_team info_en.html"
     }
   ],
   "S": [
-  
     {
       "name": "ORCAFE",
       "description": "no description",
@@ -143,16 +142,16 @@
       "text_address": "../study/codecraft/Codecraft info_en.html"
     },
     {
-      "name": "Astronomy Club",
+      "name": "Physics Club",
       "description": "Unveil the wonders of physics",
-      "image": "../study/Astronomy_Club/Astronomy_Club logo.jpg",
-      "text_address": "../study/Astronomy_Club/Astronomy_Club info_en.html"
+      "image": "../study/Physics_Club/Physics_Club logo.jpg",
+      "text_address": "../study/Physics_Club/Physics_Club info_en.html"
     },
     {
       "name": "Chemistry Club",
       "description": "description",
       "image": "../study/ChemXplore/ChemXplore logo.jpg",
-      "text_address":"../study/ChemXplore/ChemXplore info_en.html"
+      "text_address": "../study/ChemXplore/ChemXplore info_en.html"
     },
     {
       "name": "WFL Econ. club",
@@ -182,7 +181,11 @@
       "name": "BPC",
       "description": "Dream. Build. Achieve. ——Business Starts Here",
       "image": "../study/BPC/BPC logo.png",
-      "text_address": "../study/BPC/BPC info_en.html"
+      "text_address": "../study/BPC/BPC info_en.html"},
+     { "name": "Lingual Fusion",
+      "description": "Blend into the Realm of Languages, Connect with the Voices of the World.",
+      "image": "../study/Lingual Fusion/Lingual Fusion logo.jpg",
+      "text_address": "../study/Lingual Fusion/Lingual Fusion info_en.html"
     }
   ]
 }
