@@ -117,6 +117,12 @@
       "description": "Unity and hard work, never give up",
       "image": "../activity/girls_basketball_team/girls basketball team logo.jpg",
       "text_address": "../activity/girls_basketball_team/girls_basketball_team info_en.html"
+    },
+  {
+      "name": "Golf Club",
+      "description": "Swing with Grace, Lead with Vision.",
+      "image": "../activity/golf_club/golf_club_logo.jpg",
+      "text_address": "../activity/golf_club/golf_club info_en.html"
     }
   ],
   "S": [
@@ -137,6 +143,12 @@
       "description": "Silent Hands, United Hearts",
       "image": "../service/American Sign Language Club/ASL logo.jpg",
       "text_address": "../service/American Sign Language Club/American Sign Language Club en.html"
+    },
+    {
+      "name": "Baking Club",
+      "description": "Knead dough, make the “low” go.",
+      "image": "../service/bakery_club/bakery_club logo.jpg",
+      "text_address": "../service/bakery_club/bakery_club_en.html"
     }
   ],
   "St": [
